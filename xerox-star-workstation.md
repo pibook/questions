@@ -1,5 +1,4 @@
 ---
-layout: video-quiz
 author: epidrome
 title: Xerox Star Workstation 
 image_url: /images/xerox-star-pc.jpg

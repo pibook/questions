@@ -1,5 +1,4 @@
 ---
-layout: video-quiz
 author: epidrome
 title: Sketchpad Demo 
 image_url: /images/sketchpad.png
