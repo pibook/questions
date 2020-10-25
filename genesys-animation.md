@@ -3,7 +3,7 @@ author: epidrome
 title: Genesys Animation 
 image_url: /images/genesys.jpg
 caption: Genesys 
-deadline: 2020-10-21
+deadline: 2020-10-22
 videoID: "GYIPKLxoTcQ"
 questions:
  - question: Περιγράψτε τις διαφορές της πένας του Genesys σε σχέση με αυτήν του Sketchpad, ποια είναι καλύτερη; 

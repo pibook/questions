@@ -3,7 +3,7 @@ author: epidrome
 title: Sketchpad Demo 
 image_url: /images/sketchpad.png
 caption: Sketchpad 
-deadline: 2020-10-15
+deadline: 2020-10-17
 videoID: "6orsmFndx_o"
 questions:
  - question: Περιγράψτε τις διαφορές της διάδρασης με το Sketchpad σε σχέση με τις διεργασίες δέσμης 
