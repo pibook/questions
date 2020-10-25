@@ -3,7 +3,7 @@ author: epidrome
 title: Kids react to old computers
 image_url: /images/apple2.jpg
 caption: Kids react to old computers 
-deadline: 2020-10-24
+deadline: 2020-10-31
 videoID: "PF7EpEnglgk"
 questions:
  - question: Ποιος είναι βασικός τρόπος διάδρασης με τον υπολογιστή και γιατί χρειάζονται τόσα βήματα για το άνοιγμα και τον χειρισμό του;
