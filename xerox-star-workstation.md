@@ -3,15 +3,15 @@ author: epidrome
 title: Xerox Star Workstation 
 image_url: /images/xerox-star-pc.jpg
 caption: Xerox Star Workstation
-deadline: 2020-09-14
+deadline: 2020-10-24
 videoID: "zVw86emu-K0"
 questions:
- - question: When was the Xerox Star introduced?
-   marker: 2
- - question: What was special about the Xerox Star?
-   marker: 5
- - question: What was the Xerox Star influence to future systems?
-   marker: 8
+ - question: Ποιες είναι οι διεργασίες ενός επαγγελματία της πληροφορίας πριν την εισαγωγή του επιτραπέζιου υπολογιστή και πως έχουν αλλάξει σήμερα; 
+   marker: 215 
+ - question: Τα αντικείμενα και οι διεργασίες από το φυσικό χώρο του γραφείου έχουν αποδωθεί στον επιτραπέζιο υπολογιστή ως μεταφορές, είναι αυτός ο μόνος τρόπος για να γίνουν αυτές οι διεργασίες στον υπολογιστή, ποια είναι τα κίνητρα αυτού του κατασκευαστή;; 
+   marker: 420 
+ - question: Ο χρήστης δεν φαίνεται να ανοίγει νέα εφαρμογή για την επεξεργασία των γραφημάτων, αλλά το κάνει με ένα παράθυρο διαλόγου, είναι αυτός ο τρόπος καλύτερος από τις ξεχωριστές εφαρμογές;
+   marker: 630 
 categories:
   - Αρχέτυπα
   - Μεταφορές 
