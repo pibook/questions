@@ -3,7 +3,7 @@ author: epidrome
 title: Learning experience 
 image_url: /images/lanier-profile.jpg
 caption: Learning experience
-deadline: 2020-11-14
+deadline: 2020-12-6
 videoID: "F9eFZpdSeRU"
 questions:
  - question: Πως μπορεί να μεταφερθεί η κοινωνική και μαθησιακή δραστηριότητα σε ένα ψηφιακό περιβάλλον και ποια είναι σημασία των γραφικών μεγάλης ανάλυσης σύμφωνα με τον ομιλητή; 
