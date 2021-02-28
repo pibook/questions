@@ -3,7 +3,7 @@ author: epidrome
 title: Ted Nelson Computers for Cynics 
 image_url: /images/xerox-gypsy.png
 caption: Ted Nelson Computers for Cynics
-deadline: 2021-02-28
+deadline: 2021-03-01
 videoID: "hZ3gmh-d9oI"
 questions:
  - question: Ποιος είναι ορισμός της τεχνολογίας λογισμικού για τον Τεντ Νελσον και ποια είναι η διαφορά με το πακετάρισμα και τις πολιτικές της τεχνολογίας; Να δώσετε ένα τουλάχιστον παράδειγμα όπου φαίνονται οι διαφορές. 
