@@ -3,7 +3,7 @@ author: epidrome
 title: Bret Victor Future of Programming 
 image_url: /images/xerox-gypsy.png
 caption: Bret Victor Future of Programming
-deadline: 2021-03-14
+deadline: 2021-03-15
 videoID: "IGMiCo2Ntsc"
 questions:
  - question: Γιατί υπάρχει αντίσταση απέναντι στις νέες γλώσσες προγραμματισμού υψηλού επιπέδου; Να δώσετε ένα παράδειγμα από την δική σας εμπειρία. 
